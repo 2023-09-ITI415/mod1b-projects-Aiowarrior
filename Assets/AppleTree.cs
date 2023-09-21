@@ -65,6 +65,8 @@ public class AppleTree : MonoBehaviour
             speed *= -1; // Change direction
         }
     }
+
 }
+
 
 
