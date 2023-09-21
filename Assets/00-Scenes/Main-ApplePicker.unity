@@ -342,6 +342,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: AppleTree
       objectReference: {fileID: 0}
+    - target: {fileID: 3124018038063531394, guid: 114dc56e6d9ea6f4e960bfad11bcb87d, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7463251267218162807, guid: 114dc56e6d9ea6f4e960bfad11bcb87d, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7836558099803103739, guid: 114dc56e6d9ea6f4e960bfad11bcb87d, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 8442033865916325846, guid: 114dc56e6d9ea6f4e960bfad11bcb87d, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
