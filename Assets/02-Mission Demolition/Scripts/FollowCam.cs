@@ -28,9 +28,9 @@ if (POI.tag == "Projectile" ) {
 // if it is sleeping (that is, not moving)
 if ( POI.GetComponent<Rigidbody>().IsSleeping() ) {
 // return to default view
-POI =null ;
+POI =null;
 // in the next update
-return ;
+return;
 }
 }
 }
