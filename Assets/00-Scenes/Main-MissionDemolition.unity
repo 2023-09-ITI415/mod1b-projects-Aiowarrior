@@ -1450,6 +1450,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ProjectileLine
       objectReference: {fileID: 0}
+    - target: {fileID: 7951145468222592780, guid: d059e6b822238ef418ff78243766363c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8501388545179845170, guid: d059e6b822238ef418ff78243766363c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
