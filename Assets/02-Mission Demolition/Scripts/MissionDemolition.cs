@@ -27,7 +27,7 @@ void Start() {
 S = this; // Define the Singleton
 level = 0;
 levelMax = castles.Length;
-StartLevel();
+ StartLevel ();
 }
 void StartLevel() {
 // Get rid of the old castle if one exists
