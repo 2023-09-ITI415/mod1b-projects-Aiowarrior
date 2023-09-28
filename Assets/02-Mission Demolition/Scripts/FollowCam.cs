@@ -18,7 +18,6 @@ if (POI == null) return; // return if there is no poi // b
 // Get the position of the poi
 Vector3 destination = POI.transform.position;
 // If there is no poi, return to P:[ 0, 0, 0 ]
-Vector3 destination;
 if (POI ==null ) {
 destination =Vector3.zero;
 }else {
