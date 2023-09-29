@@ -1458,6 +1458,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4816369400342803474, guid: d059e6b822238ef418ff78243766363c, type: 3}
+      propertyPath: m_Parameters.widthCurve.m_Curve.Array.data[0].time
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4816369400342803474, guid: d059e6b822238ef418ff78243766363c, type: 3}
+      propertyPath: m_Parameters.widthCurve.m_Curve.Array.data[0].value
+      value: 0.070705414
+      objectReference: {fileID: 0}
     - target: {fileID: 7951145468222592780, guid: d059e6b822238ef418ff78243766363c, type: 3}
       propertyPath: m_Name
       value: ProjectileLine
