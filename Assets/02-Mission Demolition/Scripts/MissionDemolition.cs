@@ -41,7 +41,7 @@ Destroy( pTemp );
 }
 // Instantiate the new castle
 castle = Instantiate< GameObject>( castles[level] );
-castle.transform.position = castlePos;
+//castle.transform.position = castlePos;
 shotsTaken = 0 ;
 // Reset the camera
 SwitchView("wShow Both" );
