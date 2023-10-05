@@ -7,6 +7,7 @@ TagManager:
   - Apple
   - Projectile
   - Food
+  - Wall
   layers:
   - Default
   - TransparentFX

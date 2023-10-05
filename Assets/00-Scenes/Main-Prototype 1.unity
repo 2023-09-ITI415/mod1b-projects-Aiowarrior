@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 113410501}
   m_Layer: 0
   m_Name: Wall
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -674,7 +674,7 @@ GameObject:
   - component: {fileID: 1027343725}
   m_Layer: 0
   m_Name: Wall
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -784,7 +784,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1027343724}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -24, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 25, z: 1}
   m_ConstrainProportionsScale: 0
@@ -804,7 +804,7 @@ GameObject:
   - component: {fileID: 1410447476}
   m_Layer: 0
   m_Name: Wall
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1105,7 +1105,7 @@ GameObject:
   - component: {fileID: 2110309368}
   m_Layer: 0
   m_Name: Wall
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1230,8 +1230,8 @@ SceneRoots:
   - {fileID: 1572004186}
   - {fileID: 810897288}
   - {fileID: 803372977}
-  - {fileID: 1027343727}
   - {fileID: 1410447478}
   - {fileID: 2110309370}
   - {fileID: 113410503}
+  - {fileID: 1027343727}
   - {fileID: 1997742952}
