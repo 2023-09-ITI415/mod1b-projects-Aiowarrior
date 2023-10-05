@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(BoxCollider2D))]
 public class Snake : MonoBehaviour
 {
     private Vector2 _direction = Vector2.right;
